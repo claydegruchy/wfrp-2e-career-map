@@ -1,0 +1,3906 @@
+[
+   {
+      "title":"Abbot",
+      "entries":[
+         "Anointed Priest",
+         "High Priest",
+         "Monk",
+         "Scholar"
+      ],
+      "exits":[
+         
+      ]
+   },
+   {
+      "title":"Admiral",
+      "entries":[
+         "Noble Lord",
+         "Sea Captain"
+      ],
+      "exits":[
+         "Ambassador",
+         "Explorer",
+         "Guild Master"
+      ]
+   },
+   {
+      "title":"Agent of the Shroud",
+      "entries":[
+         "Barber-Surgeon",
+         "Fieldwarden",
+         "Initiate (Morr)",
+         "Scholar",
+         "Student",
+         "Tomb Robber",
+         "Vampire Hunter"
+      ],
+      "exits":[
+         "Killer of the Dead",
+         "Priest (Morr only)",
+         "Scholar",
+         "Spy",
+         "Vampire Hunter",
+         "Witch Hunter"
+      ]
+   },
+   {
+      "title":"Agitator",
+      "entries":[
+         "Burgher",
+         "Captain",
+         "Herald",
+         "Highwayman",
+         "Scribe",
+         "Servant",
+         "Student",
+         "Zealot"
+      ],
+      "exits":[
+         "Charlatan",
+         "Demagogue",
+         "Ex-Convict",
+         "Outlaw",
+         "Politician",
+         "Rogue",
+         "Zealot"
+      ]
+   },
+   {
+      "title":"A Defensible Home Away",
+      "entries":[
+         "Captain",
+         "High Priest",
+         "Ice Witch",
+         "Noble Lord",
+         "Wizard Lord"
+      ],
+      "exits":[
+         "Captain",
+         "Merchant",
+         "Noble Lord",
+         "Politician"
+      ]
+   },
+   {
+      "title":"Anchorite",
+      "entries":[
+         "None"
+      ],
+      "exits":[
+         "Badlander",
+         "Mystic",
+         "Outlaw",
+         "Swamp Skimmer",
+         "Vagabond"
+      ]
+   },
+   {
+      "title":"Animal Trainer",
+      "entries":[
+         "Bear Tamer",
+         "Entertainer",
+         "Farmer",
+         "Hunter",
+         "Muleskinner",
+         "Peasant",
+         "Rat Catcher"
+      ],
+      "exits":[
+         "Bear Tamer",
+         "Entertainer",
+         "Hunter"
+      ]
+   },
+   {
+      "title":"Anointed Priest",
+      "entries":[
+         "Priest"
+      ],
+      "exits":[
+         "Demagogue",
+         "Flagellant",
+         "High Priest",
+         "Scholar",
+         "Witch Hunter"
+      ]
+   },
+   {
+      "title":"Apothecary",
+      "entries":[
+         "Apprentice Wizard",
+         "Barber-Surgeon",
+         "Hedge Wizard",
+         "Student"
+      ],
+      "exits":[
+         "Apprentice Wizard",
+         "Artisan",
+         "Barber-Surgeon",
+         "Embalmer",
+         "Grave Robber",
+         "Merchant",
+         "Physician",
+         "Scholar"
+      ]
+   },
+   {
+      "title":"Apprentice Runesmith",
+      "entries":[
+         "Artisan",
+         "Runebearer",
+         "Scribe",
+         "Student"
+      ],
+      "exits":[
+         "Journeyman Runesmith",
+         "Runebearer",
+         "Scholar",
+         "Scribe",
+         "Shieldbreaker"
+      ]
+   },
+   {
+      "title":"Apprentice Witch",
+      "entries":[
+         
+      ],
+      "exits":[
+         "Ice Maiden",
+         "Initiate of Ulric",
+         "Witch"
+      ]
+   },
+   {
+      "title":"Apprentice Wizard",
+      "entries":[
+         "Dilettante",
+         "Hedge Wizard",
+         "Scholar",
+         "Scribe",
+         "Student"
+      ],
+      "exits":[
+         "Journeyman Wizard",
+         "Scholar",
+         "Scribe"
+      ]
+   },
+   {
+      "title":"Artillerist",
+      "entries":[
+         "Engineer",
+         "Sergeant"
+      ],
+      "exits":[
+         "Artisan",
+         "Captain",
+         "Guild Master",
+         "Mercenary",
+         "Veteran"
+      ]
+   },
+   {
+      "title":"Artisan",
+      "entries":[
+         "Cartographer",
+         "Engineer",
+         "Militiaman",
+         "Navigator",
+         "Tradesman"
+      ],
+      "exits":[
+         "Demagogue",
+         "Engineer",
+         "Guild Master",
+         "Merchant",
+         "Militiaman"
+      ]
+   },
+   {
+      "title":"Assassin",
+      "entries":[
+         "Champion",
+         "Duellist",
+         "Judicial Champion",
+         "Outlaw Chief",
+         "Spy",
+         "Targeteer"
+      ],
+      "exits":[
+         "Champion",
+         "Outlaw Chief",
+         "Rogue",
+         "Sergeant",
+         "Witch Hunter"
+      ]
+   },
+   {
+      "title":"Astrologer",
+      "entries":[
+         "Apothecary",
+         "Apprentice Wizard",
+         "Charlatan",
+         "Dilettante",
+         "Journeyman Wizard",
+         "Master Wizard",
+         "Navigator",
+         "Noble",
+         "Physician",
+         "Scholar",
+         "Student"
+      ],
+      "exits":[
+         "Apprentice Wizard",
+         "Charlatan",
+         "Explorer",
+         "Navigator",
+         "Scholar"
+      ]
+   },
+   {
+      "title":"Ataman",
+      "entries":[
+         "Captain",
+         "Horse Master",
+         "Noble",
+         "Veteran"
+      ],
+      "exits":[
+         "Politician",
+         "Priest",
+         "Noble Lord"
+      ]
+   },
+   {
+      "title":"Badlander",
+      "entries":[
+         "Anchorite",
+         "Peasant",
+         "Vagabond"
+      ],
+      "exits":[
+         "Cat Burglar",
+         "Vagabond"
+      ]
+   },
+   {
+      "title":"Badlands Ranger",
+      "entries":[
+         "Explorer",
+         "Outlaw Chief",
+         "Scout"
+      ],
+      "exits":[
+         "Captain",
+         "Explorer",
+         "Outlaw Chief"
+      ]
+   },
+   {
+      "title":"Bailiff",
+      "entries":[
+         "Bodyguard",
+         "Jailer"
+      ],
+      "exits":[
+         "Militiaman",
+         "Politician",
+         "Protagonist",
+         "Racketeer",
+         "Smuggler",
+         "Toll Keeper"
+      ]
+   },
+   {
+      "title":"Barber-Surgeon",
+      "entries":[
+         "Dilettante",
+         "Initiate",
+         "Student"
+      ],
+      "exits":[
+         "Interrogator",
+         "Grave Robber",
+         "Physician",
+         "Tradesman",
+         "Vagabond"
+      ]
+   },
+   {
+      "title":"Battle Pilgrim",
+      "entries":[
+         "Grail Pilgrim"
+      ],
+      "exits":[
+         "Faceless",
+         "Sergeant",
+         "Vagabond",
+         "Veteran"
+      ]
+   },
+   {
+      "title":"Bear Tamer",
+      "entries":[
+         "Entertainer",
+         "Initiate of Ursun",
+         "Priest of Ursun"
+      ],
+      "exits":[
+         "Animal Trainer",
+         "Entertainer",
+         "Initiate of Ursun",
+         "Pit Fighter",
+         "Soldier"
+      ]
+   },
+   {
+      "title":"Black Guard",
+      "entries":[
+         "Knight",
+         "Priest (Morr only)",
+         "Sergeant",
+         "Squire",
+         "Vampire Hunter",
+         "Witch Hunter"
+      ],
+      "exits":[
+         "Captain",
+         "Champion",
+         "Priest (Morr only)",
+         "Knight of the Inner Circle",
+         "Knight of the Raven",
+         "Vampire Hunter"
+      ]
+   },
+   {
+      "title":"Boatman",
+      "entries":[
+         "Ferryman",
+         "Smuggler"
+      ],
+      "exits":[
+         "Fisherman",
+         "Marine",
+         "Navigator",
+         "Seaman",
+         "Smuggler"
+      ]
+   },
+   {
+      "title":"Bodyguard",
+      "entries":[
+         "Estalian Diestro",
+         "Jailer",
+         "Mercenary",
+         "Thug"
+      ],
+      "exits":[
+         "Bailiff",
+         "Bounty Hunter",
+         "Interrogator",
+         "Jailer",
+         "Mercenary",
+         "Protagonist,"
+      ]
+   },
+   {
+      "title":"Bondsman",
+      "entries":[
+         "Berserker",
+         "Mercenary",
+         "Pit Fighter"
+      ],
+      "exits":[
+         "Berserker",
+         "Bodyguard",
+         "Freeholder",
+         "Marauder",
+         "Mercenary",
+         "Reaver",
+         "Skald",
+         "Veteran",
+         "Warleader"
+      ]
+   },
+   {
+      "title":"Bonepicker",
+      "entries":[
+         "Peasant",
+         "Rat Catcher",
+         "Vagabond"
+      ],
+      "exits":[
+         "Camp Follower",
+         "Cat Burglar",
+         "Fence",
+         "Grave Robber",
+         "Smuggler"
+      ]
+   },
+   {
+      "title":"Border Courtier",
+      "entries":[
+         "Captain",
+         "Courtier",
+         "Noble",
+         "Outlaw Chief",
+         "Politician",
+         "Sergeant"
+      ],
+      "exits":[
+         "Assassin",
+         "Captain",
+         "Courtier",
+         "Noble Lord",
+         "Spy"
+      ]
+   },
+   {
+      "title":"Bounty Hunter",
+      "entries":[
+         "Bodyguard",
+         "Fieldwarden",
+         "Hunter",
+         "Kislevite Kossar",
+         "Mercenary",
+         "Pit Fighter"
+      ],
+      "exits":[
+         "Mercenary",
+         "Protagonist",
+         "Scout",
+         "Targeteer",
+         "Vampire Hunter"
+      ]
+   },
+   {
+      "title":"Burgher",
+      "entries":[
+         "Innkeeper",
+         "Servant"
+      ],
+      "exits":[
+         "Agitator",
+         "Fence",
+         "Innkeeper",
+         "Merchant",
+         "Militiaman",
+         "Tradesman",
+         "Valet"
+      ]
+   },
+   {
+      "title":"Cadet",
+      "entries":[
+         "Estalian Diestro",
+         "Mercenary",
+         "Militiaman",
+         "Noble",
+         "Roadwarden",
+         "Soldier",
+         "Squire",
+         "Student"
+      ],
+      "exits":[
+         "Herald",
+         "Mercenary",
+         "Pistolier",
+         "Sergeant",
+         "Squire",
+         "Student"
+      ]
+   },
+   {
+      "title":"Camp Follower",
+      "entries":[
+         "Bone Picker",
+         "Servant"
+      ],
+      "exits":[
+         "Charcoal-Burner",
+         "Charlatan",
+         "Servant",
+         "Smuggler",
+         "Spy",
+         "Tradesman",
+         "Vagabond"
+      ]
+   },
+   {
+      "title":"Cantor",
+      "entries":[
+         "Anointed Priest",
+         "Entertainer",
+         "High Priest",
+         "Initiate",
+         "Minstrel",
+         "Monk",
+         "Priest"
+      ],
+      "exits":[
+         "Catechist",
+         "Entertainer",
+         "Initiate",
+         "Priest",
+         "Minstrel",
+         "Zealot"
+      ]
+   },
+   {
+      "title":"Captain",
+      "entries":[
+         "Explorer",
+         "Ghost Strider",
+         "Knight",
+         "Knight of the Inner Circle",
+         "Noble Lord",
+         "Outlaw Chief",
+         "Sergeant",
+         "Witch Hunter"
+      ],
+      "exits":[
+         "Agitator",
+         "Explorer",
+         "Merchant",
+         "Outlaw Chief",
+         "Politician"
+      ]
+   },
+   {
+      "title":"Carcassonne Shepherd",
+      "entries":[
+         "Grail Pilgrim",
+         "Hunter",
+         "Outlaw",
+         "Outrider",
+         "Peasant",
+         "Woodsman",
+         "Vagabond"
+      ],
+      "exits":[
+         "Grail Pilgrim",
+         "Herrimault",
+         "Outlaw",
+         "Scout",
+         "Vagabond",
+         "Veteran"
+      ]
+   },
+   {
+      "title":"Cartographer",
+      "entries":[
+         "Coachman",
+         "Messenger",
+         "Navigator",
+         "Scout",
+         "Scribe",
+         "Student",
+         "Tradesman"
+      ],
+      "exits":[
+         "Artisan",
+         "Explorer",
+         "Forger",
+         "Navigator",
+         "Scholar",
+         "Scribe",
+         "Vagabond"
+      ]
+   },
+   {
+      "title":"Cat Burglar",
+      "entries":[
+         "Bone Picker",
+         "Charlatan",
+         "Chimneysweep",
+         "Ex-Convict",
+         "Grave Robber",
+         "Rat Catcher",
+         "Thief"
+      ],
+      "exits":[
+         "Crime Lord",
+         "Fence",
+         "Master Thief",
+         "Racketeer",
+         "Vagabond"
+      ]
+   },
+   {
+      "title":"Catechist",
+      "entries":[
+         "Anointed Priest",
+         "Dilettante",
+         "Friar",
+         "Priest",
+         "Scholar",
+         "Scribe",
+         "Student",
+         "Zealot"
+      ],
+      "exits":[
+         "Demagogue",
+         "Friar",
+         "Initiate",
+         "Scholar",
+         "Zealot"
+      ]
+   },
+   {
+      "title":"Cenobite",
+      "entries":[
+         "None"
+      ],
+      "exits":[
+         "Mystic",
+         "Outlaw",
+         "Servant",
+         "Vagabond"
+      ]
+   },
+   {
+      "title":"Champion",
+      "entries":[
+         "Assassin",
+         "Duellist",
+         "Judicial Champion",
+         "Knight of the Inner Circle",
+         "Targeteer",
+         "Veteran",
+         "Witch Hunter"
+      ],
+      "exits":[
+         "Assassin",
+         "Scout",
+         "Sergeant",
+         "Witch Hunter"
+      ]
+   },
+   {
+      "title":"Charcoal Burner",
+      "entries":[
+         "Camp Follower",
+         "Hunter",
+         "Miner",
+         "Peasant"
+      ],
+      "exits":[
+         "Hunter",
+         "Miner",
+         "Scout",
+         "Vagabond",
+         "Woodsman"
+      ]
+   },
+   {
+      "title":"Charlatan",
+      "entries":[
+         "Agitator",
+         "Camp Follower",
+         "Courtier",
+         "Dilettante",
+         "Entertainer",
+         "Envoy",
+         "Ex-Convict",
+         "Fence",
+         "Hedge Wizard",
+         "Journeyman Wizard",
+         "Minstrel",
+         "Rapscallion",
+         "Rogue",
+         "Smuggler",
+         "Thief"
+      ],
+      "exits":[
+         "Cat Burglar",
+         "Demagogue",
+         "Outlaw",
+         "Politician",
+         "Spy"
+      ]
+   },
+   {
+      "title":"Chekist",
+      "entries":[
+         "Kossar",
+         "Protagonist",
+         "Streltsi",
+         "Thug",
+         "Watchman"
+      ],
+      "exits":[
+         "Jailer",
+         "Interrogator",
+         "Mercenary",
+         "Racketeer",
+         "Sergeant",
+         "Soldier",
+         "Spy",
+         "Veteran",
+         "Watchman"
+      ]
+   },
+   {
+      "title":"Chimneysweep",
+      "entries":[
+         "Charcoal Burner",
+         "Miner",
+         "Peasant",
+         "Rogue",
+         "Thief"
+      ],
+      "exits":[
+         "Cat Burglar",
+         "Mercenary",
+         "Militiaman",
+         "Protagonist",
+         "Rat Catcher"
+      ]
+   },
+   {
+      "title":"Cloaked Brother",
+      "entries":[
+         "Assassin",
+         "Courtier",
+         "Crime Lord",
+         "Demagogue",
+         "Friar",
+         "Master Thief",
+         "Politician",
+         "Scout",
+         "Spy",
+         "Veteran",
+         "Witch Hunter"
+      ],
+      "exits":[
+         "Assassin",
+         "Charlatan",
+         "Crime Lord",
+         "Demagogue",
+         "Master Thief",
+         "Politician",
+         "Scout",
+         "Spy",
+         "Veteran",
+         "Witch Hunter"
+      ]
+   },
+   {
+      "title":"Coachman",
+      "entries":[
+         "Outrider",
+         "Messenger"
+      ],
+      "exits":[
+         "Cartographer",
+         "Ferryman",
+         "Highwayman",
+         "Outlaw",
+         "Roadwarden",
+         "Scout",
+         "Smuggler",
+         "Toll Keeper"
+      ]
+   },
+   {
+      "title":"Courtier",
+      "entries":[
+         "Dilettante",
+         "Noble",
+         "Herald",
+         "Pistolier",
+         "Politician"
+      ],
+      "exits":[
+         "Charlatan",
+         "Duellist",
+         "Noble Lord",
+         "Politician",
+         "Steward",
+         "Spy"
+      ]
+   },
+   {
+      "title":"Crime Lord",
+      "entries":[
+         "Cat Burglar",
+         "Demagogue",
+         "Fence",
+         "Guild Master",
+         "Master Thief",
+         "Outlaw Chief",
+         "Politician",
+         "Steward"
+      ],
+      "exits":[
+         "Demagogue",
+         "Master Thief",
+         "Outlaw Chief",
+         "Politician"
+      ]
+   },
+   {
+      "title":"Crusader",
+      "entries":[
+         "Knight",
+         "Noble Lord",
+         "Sergeant",
+         "Veteran"
+      ],
+      "exits":[
+         "Captain",
+         "Judicial Champion",
+         "Explorer",
+         "Initiate",
+         "Knight of the Inner Circle",
+         "Noble Lord",
+         "Veteran"
+      ]
+   },
+   {
+      "title":"Cult Attendant",
+      "entries":[
+         "Anointed Priest",
+         "Courtier",
+         "Initiate",
+         "Messenger",
+         "Priest",
+         "Valet"
+      ],
+      "exits":[
+         "Politician",
+         "Priest",
+         "Squire",
+         "Steward"
+      ]
+   },
+   {
+      "title":"A Slayer Finally Meets his Doom",
+      "entries":[
+         "Giant Slayer"
+      ],
+      "exits":[
+         "Glorious death"
+      ]
+   },
+   {
+      "title":"Deepwatcher",
+      "entries":[
+         "Rat Catcher",
+         "Shieldbreaker",
+         "Soldier",
+         "Tomb Raider",
+         "Watchman"
+      ],
+      "exits":[
+         "Engineer",
+         "Explorer",
+         "Mercenary",
+         "Sergeant",
+         "Smuggler",
+         "Veteran"
+      ]
+   },
+   {
+      "title":"Demagogue",
+      "entries":[
+         "Agitator",
+         "Anointed Priest",
+         "Artisan",
+         "Charlatan",
+         "Crime Lord",
+         "Flagellant",
+         "Friar",
+         "Initiate",
+         "Minstrel",
+         "Outlaw",
+         "Outlaw Chief",
+         "Politician",
+         "Prelate",
+         "Rogue",
+         "Vampire Hunter",
+         "Witch Hunter"
+      ],
+      "exits":[
+         "Crime Lord",
+         "Friar",
+         "Mercenary",
+         "Outlaw Chief",
+         "Politician"
+      ]
+   },
+   {
+      "title":"Dilettante",
+      "entries":[
+         "Any Career that includes Read/Write as a Skill."
+      ],
+      "exits":[
+         "Apprentice Wizard",
+         "Astrologer",
+         "Barber-Surgeon",
+         "Catechist",
+         "Charlatan",
+         "Courtier",
+         "Initiate",
+         "Navigator",
+         "Raconteur",
+         "Student",
+         "Tomb Robber,"
+      ]
+   },
+   {
+      "title":"Drover",
+      "entries":[
+         "Coachman",
+         "Messenger",
+         "Outrider",
+         "Steppes Nomad"
+      ],
+      "exits":[
+         "Highwayman",
+         "Horse Coper",
+         "Horse Master",
+         "Messenger",
+         "Outlaw",
+         "Outrider",
+         "Roadwarden",
+         "Scout"
+      ]
+   },
+   {
+      "title":"Duellist",
+      "entries":[
+         "Courtier",
+         "Estalian Diestro",
+         "Highwayman",
+         "Pistolier",
+         "Protagonist",
+         "Rapscallion",
+         "Sergeant",
+         "Targeteer"
+      ],
+      "exits":[
+         "Assassin",
+         "Champion",
+         "Highwayman",
+         "Rogue",
+         "Sergeant"
+      ]
+   },
+   {
+      "title":"Embalmer",
+      "entries":[
+         "Apothecary",
+         "Barber-Surgeon",
+         "Student",
+         "Tradesman"
+      ],
+      "exits":[
+         "Apprentice Wizard",
+         "Burgher",
+         "Grave Robber",
+         "Physician",
+         "Scholar"
+      ]
+   },
+   {
+      "title":"Enforcer",
+      "entries":[
+         "Bounty Hunter",
+         "Hunter",
+         "Road Warden",
+         "Watchman"
+      ],
+      "exits":[
+         "Spy",
+         "Witch Hunter"
+      ]
+   },
+   {
+      "title":"Engineer",
+      "entries":[
+         "Artisan",
+         "Miner",
+         "Student",
+         "Tradesman"
+      ],
+      "exits":[
+         "Artisan",
+         "Explorer",
+         "Guild Master",
+         "Pistolier",
+         "Smuggler"
+      ]
+   },
+   {
+      "title":"Entertainer",
+      "entries":[
+         "Animal Trainer",
+         "Herald",
+         "Rogue",
+         "Thief",
+         "Vagabond"
+      ],
+      "exits":[
+         "Animal Trainer",
+         "Charlatan",
+         "Minstrel",
+         "Rogue",
+         "Thief",
+         "Vagabond"
+      ]
+   },
+   {
+      "title":"Envoy",
+      "entries":[
+         "Student",
+         "Tradesman"
+      ],
+      "exits":[
+         "Charlatan",
+         "Merchant",
+         "Rogue",
+         "Seaman",
+         "Student",
+         "Vagabond"
+      ]
+   },
+   {
+      "title":"Estalian Diestro",
+      "entries":[
+         "None"
+      ],
+      "exits":[
+         "Bodyguard",
+         "Duellist",
+         "Highwayman",
+         "Protagonist",
+         "Rogue"
+      ]
+   },
+   {
+      "title":"Ex-Convict",
+      "entries":[
+         "Agitator",
+         "Grave Robber",
+         "Outlaw",
+         "Protagonist",
+         "Rogue",
+         "Smuggler",
+         "Thief",
+         "Thug",
+         "Tomb Robber"
+      ],
+      "exits":[
+         "Cat Burglar",
+         "Charlatan",
+         "Fence",
+         "Grave Robber",
+         "Highwayman",
+         "Outlaw",
+         "Protagonist",
+         "Racketeer",
+         "Thug",
+         "Vagabond"
+      ]
+   },
+   {
+      "title":"Exciseman",
+      "entries":[
+         "Messenger",
+         "Scribe"
+      ],
+      "exits":[
+         "Agitator",
+         "Litigant",
+         "Merchant",
+         "Militiaman",
+         "Outlaw",
+         "Roadwarden",
+         "Thief"
+      ]
+   },
+   {
+      "title":"Exorcist",
+      "entries":[
+         "Anointed Priest",
+         "Priest Anointed Priest",
+         "Lay Priest",
+         "Scholar",
+         "Witch Hunter"
+      ],
+      "exits":[
+         
+      ]
+   },
+   {
+      "title":"Explorer",
+      "entries":[
+         "Captain",
+         "Cartographer",
+         "Engineer",
+         "Herald",
+         "Master Thief",
+         "Master Wizard",
+         "Mate",
+         "Navigator",
+         "Scholar",
+         "Scout",
+         "Sea Captain",
+         "Spy",
+         "Wizard Lord"
+      ],
+      "exits":[
+         "Captain",
+         "Merchant",
+         "Sea Captain",
+         "Spy"
+      ]
+   },
+   {
+      "title":"Faceless",
+      "entries":[
+         "Battle Pilgrim",
+         "Crime Lord",
+         "Demagogue",
+         "Knight of the Realm",
+         "Noble Lord",
+         "Outlaw Chief",
+         "Politician",
+         "Questing Knight",
+         "Steward",
+         "Veteran"
+      ],
+      "exits":[
+         "Crime Lord",
+         "Demagogue",
+         "Explorer",
+         "Highwayman",
+         "Outlaw Chief"
+      ]
+   },
+   {
+      "title":"Farmer",
+      "entries":[
+         "Innkeeper",
+         "Merchant",
+         "Peasant",
+         "Tradesman",
+         "Veteran"
+      ],
+      "exits":[
+         "Innkeeper",
+         "Merchant",
+         "Militiaman",
+         "Politician",
+         "Steward"
+      ]
+   },
+   {
+      "title":"Fence",
+      "entries":[
+         "Bone Picker",
+         "Burgher",
+         "Cat Burglar",
+         "Ex-Convict",
+         "Grave Robber",
+         "Innkeeper",
+         "Racketeer",
+         "Rapscallion",
+         "Smuggler",
+         "Steward",
+         "Thief",
+         "Tomb Robber"
+      ],
+      "exits":[
+         "Charlatan",
+         "Crime Lord",
+         "Master Thief",
+         "Racketeer"
+      ]
+   },
+   {
+      "title":"Ferryman",
+      "entries":[
+         "Coachman",
+         "Smuggler",
+         "Toll Keeper"
+      ],
+      "exits":[
+         "Boatman",
+         "Highwayman",
+         "Roadwarden",
+         "Seaman",
+         "Smuggler"
+      ]
+   },
+   {
+      "title":"Fieldwarden",
+      "entries":[
+         "Hunter",
+         "Militiaman",
+         "Toll Keeper"
+      ],
+      "exits":[
+         "Bounty Hunter",
+         "Mercenary",
+         "Scout",
+         "Vagabond",
+         "Vampire Hunter"
+      ]
+   },
+   {
+      "title":"Fisherman",
+      "entries":[
+         "Boatman",
+         "Peasant"
+      ],
+      "exits":[
+         "Marine",
+         "Merchant",
+         "Militiaman",
+         "Navigator",
+         "Seaman"
+      ]
+   },
+   {
+      "title":"A Day in the Life",
+      "entries":[
+         "Anointed Priest",
+         "Friar",
+         "Priest",
+         "Zealot"
+      ],
+      "exits":[
+         "Demagogue",
+         "Interrogator",
+         "Priest",
+         "Soldier",
+         "Veteran"
+      ]
+   },
+   {
+      "title":"Foreman",
+      "entries":[
+         "Peasant",
+         "Scribe (marker)",
+         "Stevedore",
+         "Tradesman"
+      ],
+      "exits":[
+         "Demagogue",
+         "Fence",
+         "Guild Master",
+         "Politician",
+         "Racketeer"
+      ]
+   },
+   {
+      "title":"Forger",
+      "entries":[
+         "Artisan",
+         "Cartographer",
+         "Messenger",
+         "Smuggler",
+         "Student",
+         "Tradesman"
+      ],
+      "exits":[
+         "Artisan",
+         "Charlatan",
+         "Fence",
+         "Scribe",
+         "Tradesman",
+         "Student",
+         "Scholar"
+      ]
+   },
+   {
+      "title":"Freeholder",
+      "entries":[
+         "Bondsman",
+         "Burgher",
+         "Fisherman",
+         "Skald",
+         "Whaler",
+         "Tradesman"
+      ],
+      "exits":[
+         "Artisan",
+         "Innkeeper",
+         "Marauder",
+         "Merchant",
+         "Slaver"
+      ]
+   },
+   {
+      "title":"Friar",
+      "entries":[
+         "Demagogue",
+         "Initiate",
+         "Lay Priest",
+         "Physician",
+         "Prelate",
+         "Scholar",
+         "Vagabond",
+         "Zealot"
+      ],
+      "exits":[
+         "Demagogue",
+         "Flagellant",
+         "Lay Priest",
+         "Prelate",
+         "Priest",
+         "Scholar"
+      ]
+   },
+   {
+      "title":"Frogwife",
+      "entries":[
+         "Bone Picker",
+         "Camp Follower",
+         "Peasant"
+      ],
+      "exits":[
+         "Boatman",
+         "Bone Picker",
+         "Camp Follower",
+         "Swampaire",
+         "Grail Pilgrim",
+         "Herrimault",
+         "Servant",
+         "Tradesman",
+         "Vagabond",
+         "Village Elder"
+      ]
+   },
+   {
+      "title":"Gambler",
+      "entries":[
+         "Entertainer",
+         "Noble",
+         "Rogue",
+         "Mercenary",
+         "Student",
+         "Thief",
+         "Vagabond"
+      ],
+      "exits":[
+         "Charlatan",
+         "Demagogue",
+         "Entertainer",
+         "Highwayman",
+         "Rapscallion",
+         "Rogue"
+      ]
+   },
+   {
+      "title":"Little Known Facts",
+      "entries":[
+         "Scout"
+      ],
+      "exits":[
+         "Captain",
+         "Outlaw Chief",
+         "Targeteer",
+         "Vampire Hunter"
+      ]
+   },
+   {
+      "title":"Affiliations",
+      "entries":[
+         "Troll Slayer"
+      ],
+      "exits":[
+         "Daemon Slayer"
+      ]
+   },
+   {
+      "title":"Grail Knight",
+      "entries":[
+         "Questing Knight"
+      ],
+      "exits":[
+         "Captain",
+         "Courtier",
+         "Explorer",
+         "Faceless",
+         "Noble Lord",
+         "Politician"
+      ]
+   },
+   {
+      "title":"Grail Pilgrim",
+      "entries":[
+         "Carcassonne Shepherd",
+         "Hunter",
+         "Herrimault",
+         "Outlaw",
+         "Peasant",
+         "Tradesman",
+         "Vagabond"
+      ],
+      "exits":[
+         "Battle Pilgrim",
+         "Carcassonne Shepherd",
+         "Mercenary",
+         "Herrimault",
+         "Vagabond"
+      ]
+   },
+   {
+      "title":"Grandmaster",
+      "entries":[
+         "Knight of the Inner Circle"
+      ],
+      "exits":[
+         "Captain",
+         "Champion",
+         "Noble Lord",
+         "Witch Hunter"
+      ]
+   },
+   {
+      "title":"Grave Robber",
+      "entries":[
+         "Barber-Surgeon",
+         "Bone Picker",
+         "Ex-Convict",
+         "Rat Catcher"
+      ],
+      "exits":[
+         "Cat Burglar",
+         "Ex-Convict",
+         "Fence",
+         "Rat Catcher",
+         "Student",
+         "Thief"
+      ]
+   },
+   {
+      "title":"Grave Warden",
+      "entries":[
+         "Bone Picker",
+         "Rat Catcher",
+         "Peasant"
+      ],
+      "exits":[
+         "Grave Robber",
+         "Initiate (Morr only)",
+         "Militiaman",
+         "Temple Guardian",
+         "Vampire Hunter",
+         "Watchman"
+      ]
+   },
+   {
+      "title":"Guild Master",
+      "entries":[
+         "Artisan",
+         "Engineer",
+         "Merchant",
+         "Physician",
+         "Wizard Lord"
+      ],
+      "exits":[
+         "Crime Lord",
+         "Politician",
+         "Racketeer"
+      ]
+   },
+   {
+      "title":"A Bargain",
+      "entries":[
+         "Hag Witch"
+      ],
+      "exits":[
+         "None"
+      ]
+   },
+   {
+      "title":"A Long Expected Party",
+      "entries":[
+         "Wise Woman"
+      ],
+      "exits":[
+         "Demagogue",
+         "Hag Mother",
+         "Politician",
+         "Witch"
+      ]
+   },
+   {
+      "title":"Hedge Wizard",
+      "entries":[
+         "None"
+      ],
+      "exits":[
+         "Apprentice Wizard",
+         "Charlatan",
+         "Initiate",
+         "Outlaw",
+         "Vagabond"
+      ]
+   },
+   {
+      "title":"Hedgecraft Apprentice",
+      "entries":[
+         "Apothecary",
+         "Peasant",
+         "Hedge Witch"
+      ],
+      "exits":[
+         "Apothecary",
+         "Apprentice Wizard",
+         "Barber-Surgeon",
+         "Charlatan,"
+      ]
+   },
+   {
+      "title":"Hedge Master",
+      "entries":[
+         "Hedgecraft Apprentice"
+      ],
+      "exits":[
+         "Artisan",
+         "Hedgewise",
+         "Scholar",
+         "Spy",
+         "Witch"
+      ]
+   },
+   {
+      "title":"Hedgewise",
+      "entries":[
+         "Hedge Master"
+      ],
+      "exits":[
+         "Physician",
+         "Scout",
+         "Warlock"
+      ]
+   },
+   {
+      "title":"Herald",
+      "entries":[
+         "Messenger",
+         "Valet"
+      ],
+      "exits":[
+         "Agitator",
+         "Courtier",
+         "Entertainer",
+         "Explorer",
+         "Politician",
+         "Squire"
+      ]
+   },
+   {
+      "title":"Herrimault",
+      "entries":[
+         "Agitator",
+         "Carcassonne Shepherd",
+         "Charlatan",
+         "Coachman",
+         "Grail Pilgrim",
+         "Hunter",
+         "Innkeeper",
+         "Knight Errant",
+         "Man-at-Arms",
+         "Noble",
+         "Peasant",
+         "Rogue",
+         "Woodsman"
+      ],
+      "exits":[
+         "Demagogue",
+         "Grail Pilgrim",
+         "Scout",
+         "Thief",
+         "Vagabond",
+         "Veteran"
+      ]
+   },
+   {
+      "title":"High Priest",
+      "entries":[
+         "Anointed Priest"
+      ],
+      "exits":[
+         "Politician",
+         "Scholar",
+         "Witch Hunter"
+      ]
+   },
+   {
+      "title":"Highwayman",
+      "entries":[
+         "Coachman",
+         "Duellist",
+         "Ex-Convict",
+         "Estalian Diestro",
+         "Ferryman",
+         "Minstrel",
+         "Outlaw",
+         "Outrider",
+         "Rapscallion",
+         "Roadwarden",
+         "Toll Keeper"
+      ],
+      "exits":[
+         "Agitator",
+         "Duellist",
+         "Master Thief",
+         "Outlaw Chief",
+         "Sergeant"
+      ]
+   },
+   {
+      "title":"Horned Hunter",
+      "entries":[
+         "Initiate (of Taal)",
+         "Scribe"
+      ],
+      "exits":[
+         "Hunter",
+         "Militiaman",
+         "Outlaw",
+         "Scout",
+         "Vagabond"
+      ]
+   },
+   {
+      "title":"Horse Archer",
+      "entries":[
+         "Horse Master",
+         "Noble",
+         "Peasant",
+         "Steppes Nomad"
+      ],
+      "exits":[
+         "Captain",
+         "Horse Master",
+         "Mercenary",
+         "Scout",
+         "Steppes Nomad",
+         "Targeteer",
+         "Veteran"
+      ]
+   },
+   {
+      "title":"Horse Coper",
+      "entries":[
+         "Burgher",
+         "Drover",
+         "Horse Master",
+         "Messenger",
+         "Steppes Nomad"
+      ],
+      "exits":[
+         "Burgher",
+         "Charlatan",
+         "Horse Master",
+         "Merchant",
+         "Rogue"
+      ]
+   },
+   {
+      "title":"Horse Master",
+      "entries":[
+         "Drover",
+         "Horse Archer",
+         "Horse Coper",
+         "Mercenary",
+         "Noble",
+         "Outlaw",
+         "Outrider",
+         "Pistolier",
+         "Roadwarden",
+         "Scout",
+         "Soldier",
+         "Squire",
+         "Steppes Nomad",
+         "Winged Lancer"
+      ],
+      "exits":[
+         "Ataman",
+         "Drover",
+         "Horse Archer",
+         "Horse Coper",
+         "Merchant",
+         "Sergeant",
+         "Winged Lancer"
+      ]
+   },
+   {
+      "title":"Hunter",
+      "entries":[
+         "Animal Trainer",
+         "Charcoal-Burner",
+         "Kithband Warrior",
+         "Woodsman"
+      ],
+      "exits":[
+         "Animal Trainer",
+         "Bounty Hunter",
+         "Charcoal-Burner",
+         "Fieldwarden",
+         "Kithband Warrior,"
+      ]
+   },
+   {
+      "title":"A Cold Reception",
+      "entries":[
+         "Apprentice Witch"
+      ],
+      "exits":[
+         "Courtier",
+         "Ice Witch",
+         "Scout",
+         "Sergeant",
+         "Veteran",
+         "Witch"
+      ]
+   },
+   {
+      "title":"Little Known Facts",
+      "entries":[
+         "Ice Maiden"
+      ],
+      "exits":[
+         "Ambassador",
+         "Captain"
+      ]
+   },
+   {
+      "title":"Initiate",
+      "entries":[
+         "Dilettante",
+         "Hedge Wizard",
+         "Knight",
+         "Scribe",
+         "Student",
+         "Vampire Hunter",
+         "Witch Hunter",
+         "Zealot"
+      ],
+      "exits":[
+         "Barber-Surgeon",
+         "Demagogue",
+         "Friar",
+         "Lay Priest",
+         "Priest",
+         "Scribe",
+         "Zealot"
+      ]
+   },
+   {
+      "title":"Innkeeper",
+      "entries":[
+         "Burgher",
+         "Farmer",
+         "Servant"
+      ],
+      "exits":[
+         "Burgher",
+         "Farmer",
+         "Fence",
+         "Merchant",
+         "Outlaw",
+         "Smuggler"
+      ]
+   },
+   {
+      "title":"Interrogator",
+      "entries":[
+         "Barber-Surgeon",
+         "Bodyguard",
+         "Flagellant",
+         "Jailer",
+         "Thug"
+      ],
+      "exits":[
+         "Physician",
+         "Racketeer",
+         "Thief"
+      ]
+   },
+   {
+      "title":"Jailer",
+      "entries":[
+         "Bodyguard",
+         "Rat Catcher"
+      ],
+      "exits":[
+         "Bailiff",
+         "Bodyguard",
+         "Interrogator",
+         "Rat Catcher",
+         "Watchman"
+      ]
+   },
+   {
+      "title":"A Day in the Life",
+      "entries":[
+         "Apprentice Runesmith"
+      ],
+      "exits":[
+         "Master Runesmith",
+         "Scholar",
+         "Shieldbreaker"
+      ]
+   },
+   {
+      "title":"Journeyman Wizard",
+      "entries":[
+         "Apprentice Wizard"
+      ],
+      "exits":[
+         "Charlatan",
+         "Master Wizard",
+         "Scholar"
+      ]
+   },
+   {
+      "title":"Judicial Champion",
+      "entries":[
+         "Sergeant",
+         "Veteran"
+      ],
+      "exits":[
+         "Assassin",
+         "Champion",
+         "Sergeant",
+         "Witch Hunter",
+         "Zealot"
+      ]
+   },
+   {
+      "title":"A Day In The Life",
+      "entries":[
+         "Agent of the Shroud",
+         "Black Guard",
+         "Flagellant",
+         "Knight of the Raven",
+         "Vampire Hunter",
+         "Witch Hunter"
+      ],
+      "exits":[
+         "An unpleasant",
+         "and likely messy",
+         "end"
+      ]
+   },
+   {
+      "title":"Kislevite Kossar",
+      "entries":[
+         "None"
+      ],
+      "exits":[
+         "Bounty Hunter",
+         "Mercenary",
+         "Sergeant",
+         "Shieldbreaker",
+         "Veteran"
+      ]
+   },
+   {
+      "title":"Kithband Warrior",
+      "entries":[
+         "Hunter",
+         "Messenger"
+      ],
+      "exits":[
+         "Hunter",
+         "Outrider",
+         "Scout",
+         "Vagabond",
+         "Veteran"
+      ]
+   },
+   {
+      "title":"Knight",
+      "entries":[
+         "Noble Lord",
+         "Pistolier",
+         "Sergeant",
+         "Squire",
+         "Vampire Hunter"
+      ],
+      "exits":[
+         "Captain",
+         "Initiate",
+         "Knight of the Inner Circle",
+         "Noble Lord",
+         "Vampire Hunter"
+      ]
+   },
+   {
+      "title":"Knight Errant",
+      "entries":[
+         "Knight",
+         "Noble",
+         "Squire"
+      ],
+      "exits":[
+         "Knight of the Realm"
+      ]
+   },
+   {
+      "title":"Knight of the Blazing Sun",
+      "entries":[
+         "Anointed Priest (Myrmidia)",
+         "Knight",
+         "Noble Lord",
+         "Priest (Myrmidia)",
+         "Sergeant",
+         "Squire"
+      ],
+      "exits":[
+         "Captain",
+         "Champion",
+         "Explorer",
+         "Initiate",
+         "Knight of the Inner Circle"
+      ]
+   },
+   {
+      "title":"Knight of the Inner Circle",
+      "entries":[
+         "Knight",
+         "Witch Hunter"
+      ],
+      "exits":[
+         "Captain",
+         "Champion",
+         "Noble Lord",
+         "Witch Hunter"
+      ]
+   },
+   {
+      "title":"Knight of the Raven",
+      "entries":[
+         "Black Guard",
+         "Knight",
+         "Knight of the Inner Circle"
+      ],
+      "exits":[
+         "Captain",
+         "Champion",
+         "Killer of the Dead",
+         "Knight of the Inner Circle",
+         "Witch Hunter"
+      ]
+   },
+   {
+      "title":"Knight of the Realm",
+      "entries":[
+         "Knight Errant"
+      ],
+      "exits":[
+         "Captain",
+         "Courtier",
+         "Explorer",
+         "Faceless",
+         "Noble Lord",
+         "Politician",
+         "Questing Knight"
+      ]
+   },
+   {
+      "title":"Knight of the Verdant Field",
+      "entries":[
+         "Hunter",
+         "Initiate (of Myrmidia)",
+         "Mercenary",
+         "Militiaman",
+         "Outrider",
+         "Soldier",
+         "Woodsman"
+      ],
+      "exits":[
+         "Priest",
+         "Scout",
+         "Veteran"
+      ]
+   },
+   {
+      "title":"Knight Panther",
+      "entries":[
+         "Knight",
+         "Noble Lord",
+         "Sergeant",
+         "Squire",
+         "Witch Hunter"
+      ],
+      "exits":[
+         "Captain",
+         "Champion",
+         "Knight of the Inner Circle",
+         "Veteran",
+         "Witch Hunter"
+      ]
+   },
+   {
+      "title":"Lamplighter",
+      "entries":[
+         "Charcoal-Burner",
+         "Peasant",
+         "Rat Catcher",
+         "Servant"
+      ],
+      "exits":[
+         "Agitator",
+         "Burgher",
+         "Entertainer",
+         "Initiate",
+         "Servant",
+         "Smuggler",
+         "Toll Keeper",
+         "Watchman"
+      ]
+   },
+   {
+      "title":"Lay Priest",
+      "entries":[
+         "Friar",
+         "Initiate",
+         "Priest"
+      ],
+      "exits":[
+         "Friar",
+         "Prelate",
+         "Priest"
+      ]
+   },
+   {
+      "title":"Litigant",
+      "entries":[
+         "Burgher",
+         "Envoy",
+         "Exciseman",
+         "Scribe",
+         "Student",
+         "Watchman"
+      ],
+      "exits":[
+         "Agitator",
+         "Demagogue",
+         "Guild Master",
+         "Merchant",
+         "Politician",
+         "Scholar"
+      ]
+   },
+   {
+      "title":"Man-at-Arms",
+      "entries":[
+         "Carcassonne Shepherd",
+         "Hunter",
+         "Peasant",
+         "Vagabond",
+         "Woodsman"
+      ],
+      "exits":[
+         "Carcassonne Shepherd",
+         "Herrimault",
+         "Outlaw",
+         "Outrider",
+         "Veteran",
+         "Yeoman"
+      ]
+   },
+   {
+      "title":"Marauder",
+      "entries":[
+         "Berserker",
+         "Bondsman",
+         "Cult Acolyte",
+         "Freeholder",
+         "Reaver",
+         "Skald",
+         "Special*"
+      ],
+      "exits":[
+         "Chaos Warrior (ToC)",
+         "Mercenary",
+         "Reaver",
+         "Slaver",
+         "Warleader"
+      ]
+   },
+   {
+      "title":"Marine",
+      "entries":[
+         "Boatman",
+         "Fisherman",
+         "Seaman"
+      ],
+      "exits":[
+         "Mate",
+         "Outlaw",
+         "Sergeant",
+         "Smuggler",
+         "Thug"
+      ]
+   },
+   {
+      "title":"A Day in the Life",
+      "entries":[
+         "Journeyman Runesmith"
+      ],
+      "exits":[
+         "Runelord",
+         "Scholar",
+         "Veteran"
+      ]
+   },
+   {
+      "title":"Master Thief",
+      "entries":[
+         "Cat Burglar",
+         "Crime Lord",
+         "Fence",
+         "Highwayman",
+         "Racketeer",
+         "Spy"
+      ],
+      "exits":[
+         "Crime Lord",
+         "Explorer",
+         "Outlaw Chief",
+         "Targeteer"
+      ]
+   },
+   {
+      "title":"Vigilant Agents",
+      "entries":[
+         "Journeyman Wizard",
+         "Master Wizard"
+      ],
+      "exits":[
+         "Master Wizard",
+         "Spy",
+         "Vampire Hunter",
+         "Witch Hunter",
+         "Wizard Lord"
+      ]
+   },
+   {
+      "title":"Master Wizard",
+      "entries":[
+         "Journeyman Wizard"
+      ],
+      "exits":[
+         "Explorer",
+         "Scholar",
+         "Wizard Lord"
+      ]
+   },
+   {
+      "title":"Mate",
+      "entries":[
+         "Marine",
+         "Seaman"
+      ],
+      "exits":[
+         "Explorer",
+         "Merchant",
+         "Navigator",
+         "Sea Captain"
+      ]
+   },
+   {
+      "title":"Mediator",
+      "entries":[
+         "Hunter",
+         "Man-at-Arms",
+         "Herrimault",
+         "Peasant",
+         "Rogue"
+      ],
+      "exits":[
+         "Demagogue",
+         "Herrimault",
+         "Rogue",
+         "Village Elder"
+      ]
+   },
+   {
+      "title":"Mercenary",
+      "entries":[
+         "Bodyguard",
+         "Bounty Hunter",
+         "Demagogue",
+         "Fieldwarden",
+         "Kislevite Kossar",
+         "Militiaman",
+         "Miner",
+         "Norse Berserker",
+         "Outrider",
+         "Pit Fighter",
+         "Soldier",
+         "Thug",
+         "Watchman"
+      ],
+      "exits":[
+         "Bodyguard",
+         "Bounty Hunter",
+         "Outlaw",
+         "Sergeant",
+         "Shieldbreaker",
+         "Veteran"
+      ]
+   },
+   {
+      "title":"Merchant",
+      "entries":[
+         "Artisan",
+         "Burgher",
+         "Captain",
+         "Envoy",
+         "Explorer",
+         "Farmer",
+         "Fisherman",
+         "Innkeeper",
+         "Mate",
+         "Scholar",
+         "Steward",
+         "Tradesman"
+      ],
+      "exits":[
+         "Farmer",
+         "Guild Master",
+         "Militiaman",
+         "Politician",
+         "Racketeer",
+         "Spy"
+      ]
+   },
+   {
+      "title":"Messenger",
+      "entries":[
+         "Militiaman",
+         "Roadwarden",
+         "Servant"
+      ],
+      "exits":[
+         "Cartographer",
+         "Coachman",
+         "Herald",
+         "Kithband Warrior",
+         "Outrider",
+         "Roadwarden",
+         "Scout",
+         "Soldier"
+      ]
+   },
+   {
+      "title":"Militiaman",
+      "entries":[
+         "Artisan",
+         "Bailiff",
+         "Burgher",
+         "Farmer",
+         "Fisherman",
+         "Merchant",
+         "Peasant",
+         "Tradesman",
+         "Woodsman"
+      ],
+      "exits":[
+         "Artisan",
+         "Fieldwarden",
+         "Mercenary",
+         "Messenger",
+         "Outlaw",
+         "Sergeant",
+         "Thief"
+      ]
+   },
+   {
+      "title":"Miner",
+      "entries":[
+         "Charcoal-Burner",
+         "Hunter"
+      ],
+      "exits":[
+         "Charcoal-Burner",
+         "Engineer",
+         "Mercenary",
+         "Scout",
+         "Shieldbreaker",
+         "Smuggler"
+      ]
+   },
+   {
+      "title":"Minstrel",
+      "entries":[
+         "Entertainer"
+      ],
+      "exits":[
+         "Charlatan",
+         "Demagogue",
+         "Highwayman",
+         "Spy",
+         "Student"
+      ]
+   },
+   {
+      "title":"Monk",
+      "entries":[
+         "Friar",
+         "Initiate",
+         "Physician",
+         "Scholar",
+         "Scribe",
+         "Student"
+      ],
+      "exits":[
+         "Abbot",
+         "Demagogue",
+         "Friar",
+         "Physician",
+         "Priest",
+         "Scholar",
+         "Steward",
+         "Zealot"
+      ]
+   },
+   {
+      "title":"Muleskinner",
+      "entries":[
+         "Burgher",
+         "Hunter",
+         "Messenger",
+         "Peasant"
+      ],
+      "exits":[
+         "Animal Trainer",
+         "Burgher",
+         "Highwayman",
+         "Merchant",
+         "Messenger",
+         "Outlaw",
+         "Scout"
+      ]
+   },
+   {
+      "title":"Mystic",
+      "entries":[
+         "Anchorite",
+         "Cenobite"
+      ],
+      "exits":[
+         "Charlatan",
+         "Demagogue",
+         "Hedge Wizard",
+         "Rogue"
+      ]
+   },
+   {
+      "title":"Navigator",
+      "entries":[
+         "Boatman",
+         "Cartogapher",
+         "Dilettante",
+         "Fisherman",
+         "Mate",
+         "Scribe",
+         "Seaman"
+      ],
+      "exits":[
+         "Artisan",
+         "Cartographer",
+         "Explorer",
+         "Scholar",
+         "Sea Captain"
+      ]
+   },
+   {
+      "title":"Newssheet Vendor",
+      "entries":[
+         "Burgher",
+         "Messenger",
+         "Peasant",
+         "Servant",
+         "Student"
+      ],
+      "exits":[
+         "Agitator",
+         "Demagogue",
+         "Entertainer",
+         "Messenger",
+         "Pamphleteer",
+         "Rogue",
+         "Scribe",
+         "Zealot"
+      ]
+   },
+   {
+      "title":"Noble",
+      "entries":[
+         "Squire",
+         "Steward"
+      ],
+      "exits":[
+         "Courtier",
+         "Dilettante",
+         "Pistolier",
+         "Politician",
+         "Rogue",
+         "Squire",
+         "Student"
+      ]
+   },
+   {
+      "title":"Noble Lord",
+      "entries":[
+         "Courtier",
+         "Knight",
+         "Knight of the Inner Circle",
+         "Politician",
+         "Sea Captain"
+      ],
+      "exits":[
+         "Captain",
+         "Knight",
+         "Scholar",
+         "Sea Captain"
+      ]
+   },
+   {
+      "title":"Norse Berserker",
+      "entries":[
+         "None"
+      ],
+      "exits":[
+         "Mercenary",
+         "Pit Fighter",
+         "Seaman",
+         "Sergeant",
+         "Veteran"
+      ]
+   },
+   {
+      "title":"Outlaw",
+      "entries":[
+         "Agitator",
+         "Charlatan",
+         "Coachman",
+         "Ex-Convict",
+         "Hedge Wizard",
+         "Innkeeper",
+         "Marine",
+         "Mercenary",
+         "Militiaman",
+         "Peasant",
+         "Roadwarden",
+         "Rogue",
+         "Squire",
+         "Toll Keeper",
+         "Woodsman",
+         "Zealot"
+      ],
+      "exits":[
+         "Demagogue",
+         "Ex-Convict",
+         "Highwayman",
+         "Thief",
+         "Vagabond",
+         "Veteran"
+      ]
+   },
+   {
+      "title":"Outlaw Chief",
+      "entries":[
+         "Crime Lord",
+         "Demagogue",
+         "Ghost Strider",
+         "Highwayman",
+         "Master Thief",
+         "Racketeer",
+         "Scout",
+         "Veteran"
+      ],
+      "exits":[
+         "Assassin",
+         "Captain",
+         "Crime Lord",
+         "Demagogue"
+      ]
+   },
+   {
+      "title":"Outrider",
+      "entries":[
+         "Kithband Warrior",
+         "Messenger",
+         "Roadwarden",
+         "Soldier"
+      ],
+      "exits":[
+         "Coachman",
+         "Highwayman",
+         "Mercenary",
+         "Roadwarden",
+         "Scout"
+      ]
+   },
+   {
+      "title":"Pamphleteer",
+      "entries":[
+         "Agitator",
+         "Artisan",
+         "Burgher",
+         "Demagogue",
+         "Entertainer",
+         "Engineer",
+         "Messenger",
+         "Newssheet Vendor",
+         "Scholar",
+         "Scribe",
+         "Student"
+      ],
+      "exits":[
+         "Demagogue",
+         "Merchant",
+         "Politician",
+         "Scholar"
+      ]
+   },
+   {
+      "title":"Peasant",
+      "entries":[
+         "None"
+      ],
+      "exits":[
+         "Bone Picker",
+         "Charcoal-Burner",
+         "Farmer",
+         "Fisherman",
+         "Militiaman",
+         "Outlaw",
+         "Politician,"
+      ]
+   },
+   {
+      "title":"Penitent",
+      "entries":[
+         "Flagellant",
+         "Initiate",
+         "Outlaw",
+         "Student",
+         "Zealot"
+      ],
+      "exits":[
+         "Cenobite",
+         "Charlatan",
+         "Flagellant",
+         "Initiate",
+         "Vagabond"
+      ]
+   },
+   {
+      "title":"Physician",
+      "entries":[
+         "Barber-Surgeon",
+         "Interrogator",
+         "Scholar",
+         "Student"
+      ],
+      "exits":[
+         "Friar",
+         "Guild Master",
+         "Scholar",
+         "Spy"
+      ]
+   },
+   {
+      "title":"Pilgrim",
+      "entries":[
+         "Any"
+      ],
+      "exits":[
+         "Demagogue",
+         "Friar",
+         "Initiate",
+         "Outlaw",
+         "Vagabond",
+         "Zealot"
+      ]
+   },
+   {
+      "title":"Pistolier",
+      "entries":[
+         "Engineer",
+         "Noble"
+      ],
+      "exits":[
+         "Courtier",
+         "Duellist",
+         "Knight",
+         "Sergeant",
+         "Veteran"
+      ]
+   },
+   {
+      "title":"Pit Fighter",
+      "entries":[
+         "Norse Berserker",
+         "Protagonist",
+         "Shieldbreaker",
+         "Thug"
+      ],
+      "exits":[
+         "Bounty Hunter",
+         "Mercenary",
+         "Protagonist",
+         "Troll Slayer",
+         "Veteran"
+      ]
+   },
+   {
+      "title":"Politician",
+      "entries":[
+         "Agitator",
+         "Bailiff",
+         "Captain",
+         "Charlatan",
+         "Courtier",
+         "Crime Lord",
+         "Demagogue",
+         "Farmer",
+         "Guild Master",
+         "Herald",
+         "High Priest",
+         "Merchant",
+         "Noble",
+         "Peasant",
+         "Prelate",
+         "Racketeer",
+         "Toll Keeper"
+      ],
+      "exits":[
+         "Courtier",
+         "Crime Lord",
+         "Demagogue",
+         "Noble Lord",
+         "Racketeer",
+         "Steward"
+      ]
+   },
+   {
+      "title":"Prelate",
+      "entries":[
+         "Friar",
+         "Lay Priest",
+         "Priest"
+      ],
+      "exits":[
+         "Demagogue",
+         "Friar",
+         "Politician",
+         "Priest"
+      ]
+   },
+   {
+      "title":"Priest",
+      "entries":[
+         "Flagellant",
+         "Friar",
+         "Initiate",
+         "Lay Priest",
+         "Prelate"
+      ],
+      "exits":[
+         "Anointed Priest",
+         "Flagellant",
+         "Lay Priest",
+         "Prelate",
+         "Scholar",
+         "Steward"
+      ]
+   },
+   {
+      "title":"Protagonist",
+      "entries":[
+         "Bailiff",
+         "Bodyguard",
+         "Bounty Hunter",
+         "Estalian Diestro",
+         "Ex-Convict",
+         "Pit Fighter"
+      ],
+      "exits":[
+         "Duellist",
+         "Ex-Convict",
+         "Pit Fighter",
+         "Racketeer",
+         "Thief",
+         "Thug"
+      ]
+   },
+   {
+      "title":"Questing Knight",
+      "entries":[
+         "Knight of the Realm"
+      ],
+      "exits":[
+         "Captain",
+         "Courtier",
+         "Explorer",
+         "Grail Knight",
+         "Faceless",
+         "Noble Lord",
+         "Politician"
+      ]
+   },
+   {
+      "title":"Racketeer",
+      "entries":[
+         "Bailiff",
+         "Bodyguard",
+         "Cat Burglar",
+         "Ex-Convict",
+         "Fence",
+         "Guild Master",
+         "Interrogator",
+         "Merchant",
+         "Politician",
+         "Protagonist",
+         "Spy",
+         "Thug"
+      ],
+      "exits":[
+         "Fence",
+         "Master Thief",
+         "Politician",
+         "Outlaw Chief"
+      ]
+   },
+   {
+      "title":"Raconteur",
+      "entries":[
+         "Agitator",
+         "Camp Follower",
+         "Entertainer",
+         "Rogue",
+         "Seaman",
+         "Soldier",
+         "Student",
+         "Vagabond"
+      ],
+      "exits":[
+         "Charlatan",
+         "Courtier",
+         "Demagogue",
+         "Entertainer",
+         "Herald",
+         "Initiate",
+         "Rapscallion",
+         "Rogue"
+      ]
+   },
+   {
+      "title":"Rapscallion",
+      "entries":[
+         "Dilettante",
+         "Gambler",
+         "Raconteur",
+         "Vagabond"
+      ],
+      "exits":[
+         "Charlatan",
+         "Duellist",
+         "Fence",
+         "Highwayman",
+         "Spy"
+      ]
+   },
+   {
+      "title":"Rat Catcher",
+      "entries":[
+         "Grave Robber",
+         "Jailer",
+         "Runebearer",
+         "Tomb Robber"
+      ],
+      "exits":[
+         "Animal Trainer",
+         "Bone Picker",
+         "Cat Burglar",
+         "Grave Robber",
+         "Jailer",
+         "Shieldbreaker",
+         "Thief"
+      ]
+   },
+   {
+      "title":"Reaver",
+      "entries":[
+         "Berserker",
+         "Bondsman",
+         "Marauder",
+         "Seaman",
+         "Skald",
+         "Warleader",
+         "Whaler"
+      ],
+      "exits":[
+         "Marine",
+         "Mate",
+         "Mercenary",
+         "Navigator",
+         "Slaver",
+         "Ulfwerenar (see ToC page 146)",
+         "Veteran",
+         "Warleader"
+      ]
+   },
+   {
+      "title":"Rocking the Boat",
+      "entries":[
+         "Boatman",
+         "Ferryman",
+         "Marine",
+         "Roadwarden"
+      ],
+      "exits":[
+         "Boatman",
+         "Marine",
+         "Roadwarden",
+         "Seaman",
+         "Sergeant",
+         "Smuggler",
+         "Toll Keeper",
+         "Verenean Investigator",
+         "Wrecker"
+      ]
+   },
+   {
+      "title":"Roadwarden",
+      "entries":[
+         "Coachman",
+         "Ferryman",
+         "Messenger",
+         "Outrider",
+         "Watchman"
+      ],
+      "exits":[
+         "Highwayman",
+         "Messenger",
+         "Outlaw",
+         "Outrider",
+         "Scout",
+         "Sergeant",
+         "Toll Keeper"
+      ]
+   },
+   {
+      "title":"Rogue",
+      "entries":[
+         "Agitator",
+         "Assassin",
+         "Duellist",
+         "Entertainer",
+         "Envoy",
+         "Estalian Diestro",
+         "Noble",
+         "Seaman",
+         "Thief",
+         "Valet"
+      ],
+      "exits":[
+         "Charlatan",
+         "Demagogue",
+         "Entertainer",
+         "Ex-Convict",
+         "Outlaw",
+         "Servant",
+         "Thief"
+      ]
+   },
+   {
+      "title":"Runebearer",
+      "entries":[
+         "Shieldbreaker"
+      ],
+      "exits":[
+         "Rat Catcher",
+         "Scout",
+         "Shieldbreaker",
+         "Tomb Robber",
+         "Veteran"
+      ]
+   },
+   {
+      "title":"A Day In The Life",
+      "entries":[
+         "Journeyman Runesmith"
+      ],
+      "exits":[
+         "Captain",
+         "Guild Master"
+      ]
+   },
+   {
+      "title":"Scholar",
+      "entries":[
+         "Anointed Priest",
+         "Apprentice Wizard",
+         "Cartographer",
+         "Friar",
+         "High Priest",
+         "Journeyman Wizard",
+         "Master Wizard",
+         "Navigator",
+         "Noble Lord",
+         "Physician",
+         "Priest",
+         "Scribe",
+         "Sea Captain",
+         "Student"
+      ],
+      "exits":[
+         "Apprentice Wizard",
+         "Explorer",
+         "Friar",
+         "Litigant",
+         "Merchant",
+         "Physician",
+         "Steward"
+      ]
+   },
+   {
+      "title":"Scourge of God",
+      "entries":[
+         "Flagellant"
+      ],
+      "exits":[
+         "Champion",
+         "Initiate",
+         "Interrogator",
+         "Witch Hunter"
+      ]
+   },
+   {
+      "title":"Scout",
+      "entries":[
+         "Bounty Hunter",
+         "Champion",
+         "Charcoal-Burner",
+         "Coachman",
+         "Fieldwarden",
+         "Hunter",
+         "Kithband Warrior",
+         "Messenger",
+         "Miner",
+         "Outrider",
+         "Roadwarden",
+         "Runebearer",
+         "Vagabond",
+         "Woodsman"
+      ],
+      "exits":[
+         "Cartographer",
+         "Explorer",
+         "Outlaw Chief",
+         "Sergeant",
+         "Vampire Hunter",
+         "Ghost Strider"
+      ]
+   },
+   {
+      "title":"Scribe",
+      "entries":[
+         "Apprentice Wizard",
+         "Cartographer",
+         "Initiate"
+      ],
+      "exits":[
+         "Agitator",
+         "Apprentice Wizard",
+         "Cartographer",
+         "Initiate",
+         "Navigator",
+         "Scholar"
+      ]
+   },
+   {
+      "title":"Sea Captain",
+      "entries":[
+         "Explorer",
+         "Mate",
+         "Navigator",
+         "Noble Lord"
+      ],
+      "exits":[
+         "Explorer",
+         "Noble Lord",
+         "Scholar",
+         "Spy"
+      ]
+   },
+   {
+      "title":"Seaman",
+      "entries":[
+         "Boatman",
+         "Envoy",
+         "Ferryman",
+         "Fisherman",
+         "Norse Berserker",
+         "Smuggler"
+      ],
+      "exits":[
+         "Marine",
+         "Mate",
+         "Navigator",
+         "Rogue",
+         "Smuggler"
+      ]
+   },
+   {
+      "title":"Seer",
+      "entries":[
+         "Hedge Wizard",
+         "Skald"
+      ],
+      "exits":[
+         "Agitator",
+         "Charlatan",
+         "Maledictor (ToC)",
+         "Vagabond",
+         "Vitki (ToC)",
+         "Witch"
+      ]
+   },
+   {
+      "title":"Sergeant",
+      "entries":[
+         "Assassin",
+         "Champion",
+         "Duellist",
+         "Highwayman",
+         "Judicial Champion",
+         "Kislevite Kossar",
+         "Marine",
+         "Mercenary",
+         "Militiaman",
+         "Norse Berserker",
+         "Pistolier",
+         "Roadwarden",
+         "Scout",
+         "Shieldbreaker",
+         "Soldier",
+         "Squire",
+         "Targeteer,"
+      ],
+      "exits":[
+         "Captain",
+         "Duellist",
+         "Judicial Champion",
+         "Knight"
+      ]
+   },
+   {
+      "title":"Servant",
+      "entries":[
+         "Camp Follower",
+         "Peasant",
+         "Rogue"
+      ],
+      "exits":[
+         "Agitator",
+         "Burgher",
+         "Camp Follower",
+         "Innkeeper",
+         "Messenger",
+         "Spy",
+         "Thief",
+         "Valet"
+      ]
+   },
+   {
+      "title":"Sewer Jack",
+      "entries":[
+         "Jailer",
+         "Militiaman",
+         "Peasant",
+         "Rat Catcher",
+         "Shieldbreaker",
+         "Watchman"
+      ],
+      "exits":[
+         "Mercenary",
+         "Rat Catcher",
+         "Sergeant",
+         "Shieldbreaker",
+         "Smuggler",
+         "Veteran",
+         "Watchman"
+      ]
+   },
+   {
+      "title":"Shieldbreaker",
+      "entries":[
+         "Kislevite Kossar",
+         "Mercenary",
+         "Miner",
+         "Rat Catcher",
+         "Runebearer",
+         "Smuggler",
+         "Tomb Robber"
+      ],
+      "exits":[
+         "Pit Fighter",
+         "Runebearer",
+         "Sergeant",
+         "Smuggler",
+         "Tomb Robber",
+         "Veteran"
+      ]
+   },
+   {
+      "title":"Skald",
+      "entries":[
+         "Bondsman",
+         "Entertainer"
+      ],
+      "exits":[
+         "Agitator",
+         "Berserker",
+         "Burgher",
+         "Freeholder",
+         "Marauder",
+         "Mercenary",
+         "Reaver",
+         "Rogue",
+         "Seer"
+      ]
+   },
+   {
+      "title":"Slave",
+      "entries":[
+         "All"
+      ],
+      "exits":[
+         "Clanrat",
+         "Clawleader",
+         "or Any (see special rules)."
+      ]
+   },
+   {
+      "title":"Slaver",
+      "entries":[
+         "Marauder",
+         "Merchant",
+         "Reaver"
+      ],
+      "exits":[
+         "Captain",
+         "Chaos Warrior (ToC)",
+         "Outlaw Chief",
+         "Seaman"
+      ]
+   },
+   {
+      "title":"Smuggler",
+      "entries":[
+         "Bailiff",
+         "Boatman",
+         "Bone Picker",
+         "Camp Follower",
+         "Coachman",
+         "Engineer",
+         "Ferryman",
+         "Innkeeper",
+         "Marine",
+         "Miner",
+         "Seaman",
+         "Shieldbreaker"
+      ],
+      "exits":[
+         "Boatman",
+         "Charlatan",
+         "Ex-Convict",
+         "Fence",
+         "Ferryman",
+         "Seaman",
+         "Shieldbreaker,"
+      ]
+   },
+   {
+      "title":"Soldier",
+      "entries":[
+         "Flagellant",
+         "Hunter",
+         "Messenger",
+         "Toll Keeper",
+         "Watchman"
+      ],
+      "exits":[
+         "Mercenary",
+         "Outrider",
+         "Sergeant",
+         "Vagabond",
+         "Veteran",
+         "Watchman"
+      ]
+   },
+   {
+      "title":"Spy",
+      "entries":[
+         "Camp Follower",
+         "Charlatan",
+         "Courtier",
+         "Explorer",
+         "Merchant",
+         "Minstrel",
+         "Physician",
+         "Rapscallion",
+         "Sea Captain",
+         "Servant"
+      ],
+      "exits":[
+         "Assassin",
+         "Explorer",
+         "Master Thief",
+         "Racketeer"
+      ]
+   },
+   {
+      "title":"Squire",
+      "entries":[
+         "Herald",
+         "Noble",
+         "Valet"
+      ],
+      "exits":[
+         "Knight",
+         "Noble",
+         "Outlaw",
+         "Sergeant",
+         "Veteran"
+      ]
+   },
+   {
+      "title":"Steppes Nomad",
+      "entries":[
+         "Any"
+      ],
+      "exits":[
+         "Ataman",
+         "Horse Archer",
+         "Horse Master",
+         "Kossar",
+         "Outlaw",
+         "Scout",
+         "Vagabond"
+      ]
+   },
+   {
+      "title":"Stevedore",
+      "entries":[
+         "Boatman",
+         "Peasant"
+      ],
+      "exits":[
+         "Boatman",
+         "Foreman",
+         "Marine",
+         "Merchant",
+         "Smuggler",
+         "Thief",
+         "Thug",
+         "Tradesman"
+      ]
+   },
+   {
+      "title":"Steward",
+      "entries":[
+         "Courtier",
+         "Farmer",
+         "Politician",
+         "Priest",
+         "Scholar",
+         "Valet"
+      ],
+      "exits":[
+         "Crime Lord",
+         "Fence",
+         "Merchant",
+         "Noble"
+      ]
+   },
+   {
+      "title":"Streltsi",
+      "entries":[
+         "Kossar",
+         "Watchman"
+      ],
+      "exits":[
+         "Bounty Hunter",
+         "Chekist",
+         "Mercenary",
+         "Sergeant",
+         "Veteran",
+         "Watchman",
+         "Winged Lancer"
+      ]
+   },
+   {
+      "title":"Strigany Mystic",
+      "entries":[
+         "None"
+      ],
+      "exits":[
+         "Astrologer",
+         "Bone Picker",
+         "Charlatan",
+         "Entertainer",
+         "Hedge Wizard",
+         "Rogue",
+         "Seer",
+         "Thief"
+      ]
+   },
+   {
+      "title":"Student",
+      "entries":[
+         "Dilettante",
+         "Envoy",
+         "Grave Robber",
+         "Minstrel",
+         "Noble",
+         "Valet"
+      ],
+      "exits":[
+         "Agitator",
+         "Apprentice Wizard",
+         "Barber-Surgeon",
+         "Cartographer",
+         "Engineer",
+         "Envoy",
+         "Initiate,"
+      ]
+   },
+   {
+      "title":"Swamp Skimmer",
+      "entries":[
+         "Anchorite",
+         "Peasant",
+         "Vagabond"
+      ],
+      "exits":[
+         "Mercenary",
+         "Peasant",
+         "Vagabond"
+      ]
+   },
+   {
+      "title":"Swampaire",
+      "entries":[
+         "Boatman",
+         "Bone Picker",
+         "Ferryman",
+         "Frogwife",
+         "Hunter",
+         "Militiaman",
+         "Peasant"
+      ],
+      "exits":[
+         "Grail Pilgrim",
+         "Herrimault",
+         "Man-at-Arms",
+         "Outlaw",
+         "Thug",
+         "Vagabond",
+         "Village Elder",
+         "Yeoman"
+      ]
+   },
+   {
+      "title":"Targeteer",
+      "entries":[
+         "Bounty Hunter",
+         "Hunter",
+         "Ghost Strider",
+         "Master Thief",
+         "Vampire Hunter",
+         "Veteran"
+      ],
+      "exits":[
+         "Assassin",
+         "Champion",
+         "Duellist",
+         "Sergeant"
+      ]
+   },
+   {
+      "title":"Temple Guardian",
+      "entries":[
+         "Grave Warden",
+         "Initiate",
+         "Militiaman",
+         "Watchman",
+         "Zealot"
+      ],
+      "exits":[
+         "Initiate",
+         "Mercenary",
+         "Soldier",
+         "Squire",
+         "Watchman"
+      ]
+   },
+   {
+      "title":"Thief",
+      "entries":[
+         "Entertainer",
+         "Ex-Convict",
+         "Grave Robber",
+         "Interrogator",
+         "Militiaman",
+         "Outlaw",
+         "Protagonist",
+         "Rat Catcher",
+         "Rogue",
+         "Servant",
+         "Smuggler",
+         "Toll Keeper",
+         "Tomb Robber",
+         "Vagabond"
+      ],
+      "exits":[
+         "Cat Burglar",
+         "Charlatan",
+         "Entertainer",
+         "Fence",
+         "Rogue",
+         "Tomb Robber"
+      ]
+   },
+   {
+      "title":"Thug",
+      "entries":[
+         "Ex-Convict",
+         "Marine",
+         "Protagonist"
+      ],
+      "exits":[
+         "Bodyguard",
+         "Ex-Convict",
+         "Interrogator",
+         "Mercenary",
+         "Pit Fighter",
+         "Racketeer"
+      ]
+   },
+   {
+      "title":"Toll Keeper",
+      "entries":[
+         "Bailiff",
+         "Coachman",
+         "Roadwarden"
+      ],
+      "exits":[
+         "Ferryman",
+         "Fieldwarden",
+         "Highwayman",
+         "Outlaw",
+         "Soldier",
+         "Politician",
+         "Thief"
+      ]
+   },
+   {
+      "title":"Tomb Robber",
+      "entries":[
+         "Dilettante",
+         "Runebearer",
+         "Shieldbreaker",
+         "Thief"
+      ],
+      "exits":[
+         "Ex-Convict",
+         "Fence",
+         "Rat Catcher",
+         "Shieldbreaker",
+         "Thief",
+         "Vampire Hunter"
+      ]
+   },
+   {
+      "title":"Tradesman",
+      "entries":[
+         "Barber-Surgeon",
+         "Burgher",
+         "Camp Follower",
+         "Dilettante",
+         "Peasant",
+         "Watchman"
+      ],
+      "exits":[
+         "Artisan",
+         "Cartographer",
+         "Engineer",
+         "Envoy",
+         "Farmer",
+         "Merchant",
+         "Militiaman,"
+      ]
+   },
+   {
+      "title":"Troll Slayer",
+      "entries":[
+         "Pit Fighter"
+      ],
+      "exits":[
+         "Giant Slayer"
+      ]
+   },
+   {
+      "title":"Vagabond",
+      "entries":[
+         "Barber-Surgeon",
+         "Camp Follower",
+         "Cartographer",
+         "Cat Burglar",
+         "Charcoal-Burner",
+         "Entertainer",
+         "Envoy",
+         "Ex-Convict",
+         "Fieldwarden",
+         "Hedge Wizard",
+         "Kithband Warrior",
+         "Outlaw",
+         "Soldier",
+         "Woodsman"
+      ],
+      "exits":[
+         "Bone Picker",
+         "Entertainer",
+         "Friar",
+         "Rapscallion",
+         "Scout",
+         "Thief",
+         "Woodsman"
+      ]
+   },
+   {
+      "title":"Valet",
+      "entries":[
+         "Burgher",
+         "Servant"
+      ],
+      "exits":[
+         "Herald",
+         "Rogue",
+         "Squire",
+         "Steward",
+         "Student"
+      ]
+   },
+   {
+      "title":"Vampire Hunter",
+      "entries":[
+         "Bounty Hunter",
+         "Field Warden",
+         "Ghost Strider",
+         "Knight",
+         "Scout",
+         "Tomb Robber"
+      ],
+      "exits":[
+         "Demagogue",
+         "Initiate",
+         "Knight",
+         "Targeteer",
+         "Witch Hunter"
+      ]
+   },
+   {
+      "title":"Verenean Investigator",
+      "entries":[
+         "Bounty Hunter",
+         "Cat Burglar",
+         "Dilettante",
+         "Initiate (Verena)",
+         "Priest (Verena)",
+         "Roadwarden",
+         "Thief",
+         "Watchman",
+         "Scholar",
+         "Spy",
+         "Witch Hunter"
+      ],
+      "exits":[
+         "Initiate (Verena)",
+         "Scholar",
+         "Spy",
+         "Witch Hunter"
+      ]
+   },
+   {
+      "title":"Veteran",
+      "entries":[
+         "Flagellant",
+         "Kislevite Kossar",
+         "Kithband Warrior",
+         "Mercenary",
+         "Norse Berserker",
+         "Outlaw",
+         "Pistolier",
+         "Pit Fighter",
+         "Runebearer",
+         "Shieldbreaker",
+         "Soldier",
+         "Squire"
+      ],
+      "exits":[
+         "Champion",
+         "Farmer",
+         "Judicial Champion",
+         "Outlaw Chief",
+         "Sergeant",
+         "Targeteer"
+      ]
+   },
+   {
+      "title":"Village Elder",
+      "entries":[
+         "Faceless",
+         "Mediator",
+         "Yeoman"
+      ],
+      "exits":[
+         "Demagogue",
+         "Faceless",
+         "Outlaw Chief",
+         "Politician",
+         "Steward"
+      ]
+   },
+   {
+      "title":"Wall Warden",
+      "entries":[
+         "Man-at-Arms",
+         "Peasant",
+         "Tradesman"
+      ],
+      "exits":[
+         "Spy",
+         "Steward",
+         "Yeoman"
+      ]
+   },
+   {
+      "title":"Warleader",
+      "entries":[
+         "Bondsman",
+         "Marauder",
+         "Reaver"
+      ],
+      "exits":[
+         "Captain",
+         "Chaos Warrior†",
+         "Champion",
+         "Veteran"
+      ]
+   },
+   {
+      "title":"The Hartshorn Lodge",
+      "entries":[
+         "Witch"
+      ],
+      "exits":[
+         "Apprentice Wizard",
+         "Charlatan",
+         "Outlaw",
+         "Scribe",
+         "Vagabond"
+      ]
+   },
+   {
+      "title":"The Hammer of Sigmar",
+      "entries":[
+         "Anointed Priest",
+         "Prelate",
+         "Priest"
+      ],
+      "exits":[
+         "High Priest",
+         "Knight",
+         "Prelate",
+         "Witch Hunter"
+      ]
+   },
+   {
+      "title":"Watchman",
+      "entries":[
+         "Jailer",
+         "Soldier"
+      ],
+      "exits":[
+         "Mercenary",
+         "Racketeer",
+         "Roadwarden",
+         "Sergeant",
+         "Soldier",
+         "Tradesman"
+      ]
+   },
+   {
+      "title":"Whaler",
+      "entries":[
+         "Fisherman",
+         "Reaver",
+         "Seaman"
+      ],
+      "exits":[
+         "Freeholder",
+         "Marauder",
+         "Navigator",
+         "Reaver",
+         "Veteran"
+      ]
+   },
+   {
+      "title":"Winged Lancer",
+      "entries":[
+         "Horse Master",
+         "Kossar",
+         "Noble",
+         "Outrider",
+         "Peasant",
+         "Streltsi"
+      ],
+      "exits":[
+         "Captain",
+         "Horse Master",
+         "Scout",
+         "Veteran"
+      ]
+   },
+   {
+      "title":"Wise Woman",
+      "entries":[
+         "Any"
+      ],
+      "exits":[
+         "Demagogue",
+         "Hag Witch",
+         "Hedge Witch",
+         "Politician",
+         "Steppes Nomad"
+      ]
+   },
+   {
+      "title":"The Dark Art",
+      "entries":[
+         "Hedge Wizard"
+      ],
+      "exits":[
+         "Apprentice Wizard",
+         "Charlatan",
+         "Outlaw",
+         "Vagabond",
+         "Warlock"
+      ]
+   },
+   {
+      "title":"Witch Hunter",
+      "entries":[
+         "Anointed Priest",
+         "Assassin",
+         "Champion",
+         "High Priest",
+         "Judicial Champion",
+         "Knight of the Inner Circle",
+         "Vampire Hunter"
+      ],
+      "exits":[
+         "Captain",
+         "Champion",
+         "Demagogue",
+         "Initiate",
+         "Knight of the Inner Circle"
+      ]
+   },
+   {
+      "title":"Wizard Lord",
+      "entries":[
+         "Master Wizard"
+      ],
+      "exits":[
+         "Explorer",
+         "Guild Master"
+      ]
+   },
+   {
+      "title":"Woodsman",
+      "entries":[
+         "Charcoal-Burner",
+         "Vagabond"
+      ],
+      "exits":[
+         "Hunter",
+         "Militiaman",
+         "Outlaw",
+         "Scout",
+         "Vagabond"
+      ]
+   },
+   {
+      "title":"Wrecker",
+      "entries":[
+         "Boatman",
+         "Ferryman",
+         "Marine",
+         "Outlaw",
+         "Peasant",
+         "Riverwarden",
+         "Seaman",
+         "Smuggler"
+      ],
+      "exits":[
+         "Boatman",
+         "Marine",
+         "Outlaw",
+         "Thief",
+         "Veteran"
+      ]
+   },
+   {
+      "title":"Yeoman",
+      "entries":[
+         "Carcassonne Shepherd",
+         "Man-at-Arms",
+         "Mercenary"
+      ],
+      "exits":[
+         "Faceless",
+         "Mercenary",
+         "Outlaw Chief",
+         "Scout",
+         "Sergeant"
+      ]
+   },
+   {
+      "title":"Zealot",
+      "entries":[
+         "Agitator",
+         "Initiate",
+         "Judicial Champion",
+         "Peasant",
+         "Tradesman"
+      ],
+      "exits":[
+         "Agitator",
+         "Initiate",
+         "Flagellant",
+         "Friar",
+         "Outlaw"
+      ]
+   }
+]

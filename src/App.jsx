@@ -1,12 +1,18 @@
-import { useState, useEffect } from 'react';
-import logo from './logo.svg';
-import './App.css';
-import Select from 'react-select';
+import { useState, useEffect } from "react";
+import logo from "./logo.svg";
+import "./App.css";
+import Select from "react-select";
+import Chart from "./components/Chart";
+
 
 var defaultUiParams = {};
 
 function App() {
   const [uiOptions, setUiOptions] = useState(defaultUiParams);
+  const [chartData, setChartData] = useState({ cy: null });
+  const [addElementFunction, setAddElementFunction] = useState();
+  const [partialReloadLayout, setPartialReloadLayout] = useState();
+  const [fullReloadLayout, setFullReloadLayout] = useState();
 
   useEffect(() => {
     // Stuff to do when the UI updates
@@ -38,7 +44,7 @@ function App() {
       <div title={secretMessage}>
         <input
           name={label}
-          type='checkbox'
+          type="checkbox"
           checked={uiOptions[label]}
           onChange={set}
         />
@@ -47,17 +53,17 @@ function App() {
     );
   };
   return (
-    <div className='App'>
+    <div className="App">
       <div>
-        <SearchableDropdown
-          label={'example1'}
-          selectParams={{ placeholder: 'This is a placeholder' }}
-          options={[1, 2, 3].map((b) => ({
-            value: b,
-            label: b,
-          }))}
+        <Chart
+          className={""}
+          setChartData={setChartData}
+          setAddElementFunction={setAddElementFunction}
+          setPartialReloadLayout={setPartialReloadLayout}
+          setFullReloadLayout={setFullReloadLayout}
+          uiOptions={uiOptions}
+          setUiOptions={setUiOptions}
         />
-        <Checkbox label={'Example'} />
       </div>
     </div>
   );
