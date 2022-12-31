@@ -5,11 +5,12 @@ import Cytoscape from "cytoscape";
 import COSEBilkent from "cytoscape-cose-bilkent";
 import fcose from "cytoscape-fcose";
 import { defaultLayout, defaultStylesheet } from "./ChartDefaults";
-import {Source} from "./Source";
+import { Source } from "./Source";
+import dagre from "cytoscape-dagre";
 
-console.log(Source())
 Cytoscape.use(COSEBilkent);
 Cytoscape.use(fcose);
+Cytoscape.use(dagre); // register extension
 
 const makeNode = ({ data }) => ({
   group: "nodes",
@@ -120,6 +121,9 @@ const Chart = ({
   setPartialReloadLayout,
   setFullReloadLayout,
 }) => {
+  var url = new URL(window.location.href);
+  var value = url.searchParams.get("target");
+
   const [cyRef, setCyRef] = useState();
   const [mapData, updateMapData] = useState(Source());
 
@@ -184,12 +188,13 @@ const Chart = ({
     // });
 
     cy.on("dblclick", "node", function (event) {
-      window
-        .open(
-          "https://www.wikidata.org/wiki/" + event.target.data("id"),
-          "_blank"
-        )
-        .focus();
+      console.log(event.target.data("id"));
+
+      url.searchParams.set("target", event.target.data("id"));
+      console.log(url.href);
+
+      // url
+      window.open(url.href, "_blank").focus();
     });
 
     setAddElementFunction((eleData) => (eleData) => {
@@ -241,7 +246,29 @@ const Chart = ({
 
     // partialReloadLayout
 
-    fullReloadLayout(cy);
+    var target = cyRef.$("#" + value);
+
+    var ins = target.incomers();
+    var outs = target.outgoers();
+
+    var coll = cyRef.collection([target, ...ins, ...outs]);
+
+    coll.toggleClass("hidden");
+
+    // cyRef.$(":hidden").remove()
+    // console.log()
+
+    // coll.layout(defaultLayout)
+
+    // coll.layout({
+    //   name: "dagre",
+    //   rankDir: "LR", // 'TB' for top to bottom flow, 'LR' for left to right. default is undefined, making it plot top-bottom
+    // }).run();
+    // cyRef.fit(target);
+
+    // console.log("ready", target);
+
+    fullReloadLayout(coll);
   }, [cyRef]);
 
   // this happens each time the page is reloaded or the state is changed

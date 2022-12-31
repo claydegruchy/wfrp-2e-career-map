@@ -5,31 +5,32 @@ var node = (title) => ({
     id: title,
     label: title,
   },
-  classes: ["small"],
+  classes: ["hidden"],
 });
 var edge = (source, target) => ({
   data: {
     source,
     target,
   },
-  // classes: ["dotted", "small"],
+  classes: ["hidden"],
 });
 
 var titles = data.map((t) => t.title);
 
-const Source = (props) => {
+const Source = (target) => {
   var out = [];
   for (const { title, entries, exits } of data) {
-    out.push(node(title));
+
+    // if (target && title == target) 
+      out.push(node(title));
 
     entries.forEach((e) => {
       if (titles.includes(e)) out.push(edge(title, e));
     });
 
-exits.forEach((e) => {
-      if (titles.includes(e)) out.push(edge( e,title));
+    exits.forEach((e) => {
+      if (titles.includes(e)) out.push(edge(e, title));
     });
-
   }
   return out;
 };

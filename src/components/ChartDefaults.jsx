@@ -164,12 +164,12 @@ const defaultStylesheet = [
       shape: "round",
       "text-halign": "center",
       label: "data(label)",
-      width: function (ele) {
-        return Math.max(1, Math.ceil(ele.degree() / 2)) * 10;
-      },
-      height: function (ele) {
-        return Math.max(1, Math.ceil(ele.degree() / 2)) * 10;
-      },
+      // width: function (ele) {
+      //   return Math.max(1, Math.ceil(ele.degree() / 2)) * 10;
+      // },
+      // height: function (ele) {
+      //   return Math.max(1, Math.ceil(ele.degree() / 2)) * 10;
+      // },
     },
   },
   {
@@ -180,12 +180,17 @@ const defaultStylesheet = [
       height: 5,
     },
   },
-
-    {
+  {
+    selector: ".hidden",
+    style: {
+      visibility: 'hidden'
+    },
+  },
+  {
     selector: "edge.small",
     style: {
       width: 1,
-      'arrow-scale':0.5,
+      "arrow-scale": 0.5,
     },
   },
 ];
